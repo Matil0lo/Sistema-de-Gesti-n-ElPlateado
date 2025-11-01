@@ -1,2 +1,2 @@
-# Sistema-de-Gesti-n-ElPlateado
+# Sistema-de-Gestion-ElPlateado
 Proyecto de gestión y administración desarrollado con HTML, CSS, JavaScript y jQuery.
